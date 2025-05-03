@@ -1,0 +1,138 @@
+[22-Apr-2025 08:23:40 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumarvickyanand7272@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[22-Apr-2025 08:23:40 Europe/Berlin] Database connection successful
+[22-Apr-2025 08:30:55 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumarvickyanand7272@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[22-Apr-2025 08:30:55 Europe/Berlin] Database connection successful
+[22-Apr-2025 08:31:34 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumarvickyanand5493@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[22-Apr-2025 08:31:34 Europe/Berlin] Database connection successful
+[22-Apr-2025 08:39:54 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumarvickyanand93@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[22-Apr-2025 08:39:54 Europe/Berlin] Database connection successful
+[22-Apr-2025 08:39:54 Europe/Berlin] Attempting database insert for email: kumarvickyanand93@gmail.com
+[22-Apr-2025 08:39:54 Europe/Berlin] Database execute result: true
+[22-Apr-2025 08:39:54 Europe/Berlin] User registration successful for email: kumarvickyanand93@gmail.com
+[22-Apr-2025 08:51:27 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumar72725@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[22-Apr-2025 08:51:27 Europe/Berlin] Database connection successful
+[22-Apr-2025 08:51:27 Europe/Berlin] Attempting database insert for email: kumar72725@gmail.com
+[22-Apr-2025 08:51:27 Europe/Berlin] Database execute result: true
+[22-Apr-2025 08:51:27 Europe/Berlin] User registration successful for email: kumar72725@gmail.com
+[22-Apr-2025 16:03:29 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumar72725@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[22-Apr-2025 16:03:29 Europe/Berlin] Database connection successful
+[22-Apr-2025 16:03:45 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumar521@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[22-Apr-2025 16:03:45 Europe/Berlin] Database connection successful
+[22-Apr-2025 16:03:45 Europe/Berlin] Attempting database insert for email: kumar521@gmail.com
+[22-Apr-2025 16:03:45 Europe/Berlin] Database execute result: true
+[22-Apr-2025 16:03:45 Europe/Berlin] User registration successful for email: kumar521@gmail.com
+[22-Apr-2025 16:54:25 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumar56@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[22-Apr-2025 16:54:25 Europe/Berlin] Database connection successful
+[22-Apr-2025 16:54:25 Europe/Berlin] Attempting database insert for email: kumar56@gmail.com
+[22-Apr-2025 16:54:25 Europe/Berlin] Database execute result: true
+[22-Apr-2025 16:54:25 Europe/Berlin] User registration successful for email: kumar56@gmail.com
+[22-Apr-2025 18:06:26 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumar478@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[22-Apr-2025 18:06:26 Europe/Berlin] Database connection successful
+[22-Apr-2025 18:06:26 Europe/Berlin] Attempting database insert for email: kumar478@gmail.com
+[22-Apr-2025 18:06:26 Europe/Berlin] Database execute result: true
+[22-Apr-2025 18:06:26 Europe/Berlin] User registration successful for email: kumar478@gmail.com
+[22-Apr-2025 18:08:07 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumar478@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[22-Apr-2025 18:08:07 Europe/Berlin] Database connection successful
+[22-Apr-2025 18:09:31 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumar47@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[22-Apr-2025 18:09:31 Europe/Berlin] Database connection successful
+[22-Apr-2025 18:09:31 Europe/Berlin] Attempting database insert for email: kumar47@gmail.com
+[22-Apr-2025 18:09:31 Europe/Berlin] Database execute result: true
+[22-Apr-2025 18:09:31 Europe/Berlin] User registration successful for email: kumar47@gmail.com
+[30-Apr-2025 18:08:43 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumar478@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[30-Apr-2025 18:08:43 Europe/Berlin] Database connection successful
+[30-Apr-2025 18:08:52 Europe/Berlin] Registration request received: Array
+(
+    [name] => Kumar Vicky Anand
+    [email] => kumar5493@gmail.com
+    [password] => Rauniyar@123
+    [confirm_password] => Rauniyar@123
+)
+
+[30-Apr-2025 18:08:52 Europe/Berlin] Database connection successful
+[30-Apr-2025 18:08:52 Europe/Berlin] Attempting database insert for email: kumar5493@gmail.com
+[30-Apr-2025 18:08:52 Europe/Berlin] Database execute result: true
+[30-Apr-2025 18:08:52 Europe/Berlin] User registration successful for email: kumar5493@gmail.com
